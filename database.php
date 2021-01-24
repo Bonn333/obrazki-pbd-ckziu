@@ -4,8 +4,8 @@ date_default_timezone_set('Europe/Warsaw');
 
 $config = [
     'host' => 'localhost',
-    'user' => 'root',
-    'pass' => 'heheszki',
+    'user' => 'obrazki',
+    'pass' => 'obrazki',
     'name' => 'obrazki'
 ];
 

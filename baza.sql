@@ -1,5 +1,3 @@
-create database obrazki;
-
 create table images (
     id INT AUTO_INCREMENT NOT NULL,
     photo_url TEXT NOT NULL,

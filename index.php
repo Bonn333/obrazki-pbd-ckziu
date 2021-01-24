@@ -26,7 +26,7 @@
                 <div class="entry">
                     <div class="thumbnail">
                         <a href="/photo.php?id=<?= $image['id']; ?>">
-                            <img src="<?= $image['photo_url']; ?>" alt="Wpis o ID <?= $image['id']; ?>"/>
+                            <img src="<?= $image['photo_url']; ?>" alt="Wpis o ID <?= $image['id']; ?>" style="width: 50%; height: 50%"/>
                         </a>
                     </div>
 
